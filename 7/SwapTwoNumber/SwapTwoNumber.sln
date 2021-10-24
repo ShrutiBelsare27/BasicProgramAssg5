@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNumber", "SwapTwoNumber\SwapTwoNumber.csproj", "{66D3BAE7-78A6-4E93-B821-AA2637C59082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D3BAE7-78A6-4E93-B821-AA2637C59082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D3BAE7-78A6-4E93-B821-AA2637C59082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D3BAE7-78A6-4E93-B821-AA2637C59082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D3BAE7-78A6-4E93-B821-AA2637C59082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F808DB52-1C3A-49F3-8D29-5D20E0513CBD}
+	EndGlobalSection
+EndGlobal

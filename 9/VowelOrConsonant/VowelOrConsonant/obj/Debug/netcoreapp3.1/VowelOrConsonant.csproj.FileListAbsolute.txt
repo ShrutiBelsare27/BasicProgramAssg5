@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.exe
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.deps.json
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.runtimeconfig.json
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.runtimeconfig.dev.json
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.dll
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.pdb
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.AssemblyInfo.cs
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.dll
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.pdb
+C:\Users\User\Desktop\9\VowelOrConsonant\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.genruntimeconfig.cache
